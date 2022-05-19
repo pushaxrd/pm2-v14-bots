@@ -7,6 +7,7 @@ Marino Main Bot Nedir Güzel Soru Ve Güzel Cevap Verem Marino Main Bots Sanalda
 ✰ Pushaizm#2869
 floxy afk.#0242
 ✰ Rowy#0013
+Spelay ✰#1903
 
 
 # Yapmanız gereken adımlar

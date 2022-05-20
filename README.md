@@ -10,7 +10,7 @@
 Marino Main Bot Nedir Güzel Soru Ve Güzel Cevap Verem Marino Main Bots Sanalda En Gelişmis Botlardan Biridir İçinde Setup Sisteminden Tut Bir Cok Sey Olmak Üzere Yeniliniyor Ve Ekleniyordur Bot Tamamen Bitince Burda Olacaktır Sizde O Sıra Star Ve Fork Abanarak Bize Destek Olabilirsiniz
 
 
-#BOT ÖZELİKLERİ
+# BOT ÖZELİKLERİ
 Botumuzun özeliklerini size hemen sayam button ve menu sıstemı olmak uzere v13 yaranlanıp bır cok sey yapiyoruz suanda otomatık terfı buttonlu terfı gıbı ve bır cok sey daha coin sistemi ve hem public hemde ekip botu yanı ıstedıgınız gıbı kullana bilceksiniz gelismis kayıt sistemi olmak üzere bir cok sey daha vardır botumuzda herseyi gelisitip size buraya yanı atacaz ve site yapacaz botumuza suanda calısmalar devam edıyor guzel mfull mongolu v13 setup sıstemlı sıtelı bot olacaktır ve bunların hepsi bitikten sonra buraya atacagım ama istedigim star ve fork gelirse.
 
 

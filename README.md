@@ -12,16 +12,6 @@ Marino Main Bot Nedir Güzel Soru Ve Güzel Cevap Verem Marino Main Bots Sanalda
 
 # Yapmanız gereken adımlar
 
-Not: Aşağıdaki hata için veya welcome mesaj sorunu için .ytag ekle sil yapmanız gerekmektedir.
-
-![image](https://user-images.githubusercontent.com/92666466/150496311-fa4725af-1d36-4004-b457-bcacfaee238b.png)
-
-
-Not: menuselcut 360 satırdaki
-```js
-if (!menu.clicker.member.roles.cache.get("family rol id") && !menu.clicker.member.roles.cache.get("booster rol id")) return await menu.reply.edit("Booster & Taglu üye olman gerek!"); 
-```
-
 Not: Aşağıdaki rol menü sisteminde sol kısımdakiler emoji id isterseniz öyle kalabilir o kısım beğenmezseniz değişirsiniz, sağ kısımlarındaki ise rol idleridir. Sırasıyla .menü <katılım/burc/oyun/renk/iliski/etkin> komutları kullanılırsa alttaki ss düzeninde olucaktır menü sistemi
 
 ```js

@@ -4,10 +4,10 @@
 Marino Main Bot Nedir Güzel Soru Ve Güzel Cevap Verem Marino Main Bots Sanalda En Gelişmis Botlardan Biridir İçinde Setup Sisteminden Tut Bir Cok Sey Olmak Üzere Yeniliniyor Ve Ekleniyordur Bot Tamamen Bitince Burda Olacaktır Sizde O Sıra Star Ve Fork Abanarak Bize Destek Olabilirsiniz
 
  #BOT GELİSTİRİCİLERİ
--✰ Pushaizm#2869
--floxy afk.#0242
--✰ Rowy#0013
--Spelay ✰#1903
+- ✰ Pushaizm#2869
+- floxy afk.#0242
+- ✰ Rowy#0013
+- Spelay ✰#1903
 
 
 # Yapmanız gereken adımlar

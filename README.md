@@ -74,6 +74,11 @@ const oyunlar = {
 
 ```
 #BOT GELİSTİRDİKCE BURAYA FOTORAFLAR BIRAKACAM.
+
+
+![image](https://cdn.discordapp.com/attachments/972461533701492777/977519036097237012/unknown.png)
+![image](https://cdn.discordapp.com/attachments/972461533701492777/977519937155375115/unknown.png)
+![image](https://cdn.discordapp.com/attachments/972461533701492777/977520028532473866/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/976774642956124182/977275666858905682/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/945760991805866014/976950716914597898/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/945760991805866014/976950189615099945/unknown.png)

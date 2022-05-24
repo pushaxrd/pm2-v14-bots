@@ -10,6 +10,8 @@
 # AÇIKLAMA
 Marino Main Bot Nedir Güzel Soru Ve Güzel Cevap Verem Marino Main Bots Sanalda En Gelişmis Botlardan Biridir İçinde Setup Sisteminden Tut Bir Cok Sey Olmak Üzere Yeniliniyor Ve Ekleniyordur Bot Tamamen Bitince Burda Olacaktır Sizde O Sıra Star Ve Fork Abanarak Bize Destek Olabilirsiniz
 
+- V12 Paylasacam Sadece V13 İsteyen Arkadaslar Satılcaktır Bilginize Seviliyorsunuz. Belki V13 Koyarım Star Ve Fork Baglı Bu Birazda.
+
 
 # BOT ÖZELİKLERİ
 Botumuzun özeliklerini size hemen sayam button ve menu sıstemı olmak uzere v13 yaranlanıp bır cok sey yapiyoruz suanda otomatık terfı buttonlu terfı gıbı ve bır cok sey daha coin sistemi ve hem public hemde ekip botu yanı ıstedıgınız gıbı kullana bilceksiniz gelismis kayıt sistemi olmak üzere bir cok sey daha vardır botumuzda herseyi gelisitip size buraya yanı atacaz ve site yapacaz botumuza suanda calısmalar devam edıyor guzel mfull mongolu v13 setup sıstemlı sıtelı bot olacaktır ve bunların hepsi bitikten sonra buraya atacagım ama istedigim star ve fork gelirse.
@@ -75,6 +77,11 @@ const oyunlar = {
 
 ```
 #BOT GELİSTİRDİKCE BURAYA FOTORAFLAR BIRAKACAM.
+
+
+![image]([(https://cdn.discordapp.com/attachments/976774642956124182/978786774635642910/unknown.png)]
+![image]([https://media.discordapp.net/attachments/976774642956124182/978788366076219452/unknown.png)]
+![image]([https://cdn.discordapp.com/attachments/976774642956124182/978788409067847700/unknown.png)]
 
 ![image](https://cdn.discordapp.com/attachments/976774642956124182/977527043279450142/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/972461533701492777/977519036097237012/unknown.png)

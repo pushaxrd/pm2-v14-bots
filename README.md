@@ -1,4 +1,4 @@
-# 50 Star 25 Fork Paylasacam.
+# 75 Star 25 Fork Paylasacam.
 
 
  #BOT GELİSTİRİCİLERİ
@@ -8,9 +8,8 @@
 - floxy afk.#0242
 
 # AÇIKLAMA
-Marino Main Bot Nedir Güzel Soru Ve Güzel Cevap Verem Marino Main Bots Sanalda En Gelişmis Botlardan Biridir İçinde Setup Sisteminden Tut Bir Cok Sey Olmak Üzere Yeniliniyor Ve Ekleniyordur Bot Tamamen Bitince Burda Olacaktır Sizde O Sıra Star Ve Fork Abanarak Bize Destek Olabilirsiniz
+Bu Bot Önce theark sonra aris lesnar sonra jaylen ve ben kısaca pusha gelistirdik ben sonra dahada cok gelistirdim setup sıstemınıde kurdum herseyıde kurdum etım arkadaslar ve bot artık biti v12 hali v13 gecirecekler botu ve birseyde kalmadı artık yapacam bir kac sey var onlarıda yaptıktan sonra v12 önce atacam ıstedıgım star ve fork gelincede v13 atacam
 
-- V12 Paylasacam Sadece V13 İsteyen Arkadaslar Satılcaktır Bilginize Seviliyorsunuz. Belki V13 Koyarım Star Ve Fork Baglı Bu Birazda.
 
 
 # BOT ÖZELİKLERİ

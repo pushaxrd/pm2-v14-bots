@@ -7,6 +7,14 @@
 - Adonis ?#1923
 - floxy afk.#0242
 
+
+# BOT NASIL KURULUR
+
+- bot soyle kuruyoruz once setup bolumunu oraya kurup actıktan sonra setup komutuyla butun herseyi kurun ve eksiksiz tamamlayın 
+- setup botunda 2 kere nokta atın ve 2 boş embedi alip leaderboard kurabilirsiniz ve rahatlikta botu calısır ve hatasizdir
+- diyceksiniz bot nıye böyle yaptın arkadaşlar ben setup sistemini hic bilmiyorum ve anlamıyorum ve acıkca diyim bilmeyip ve anlamadıgım halde yaptim k.b hatasizdir iyi kullanımlar dilerim 
+
+
 # AÇIKLAMA
 Bu Bot Önce theark sonra aris lesnar sonra jaylen ve ben kısaca pusha gelistirdik ben sonra dahada cok gelistirdim setup sıstemınıde kurdum herseyıde kurdum etım arkadaslar ve bot artık biti v12 hali v13 gecirecekler botu ve birseyde kalmadı artık yapacam bir kac sey var onlarıda yaptıktan sonra v12 önce atacam ıstedıgım star ve fork gelincede v13 atacam
 

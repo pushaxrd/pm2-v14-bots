@@ -15,7 +15,7 @@ module.exports = {
         let choose = args[0]
 
         if(!choose) {
-            let ayar = await config.findOne({guildID: "945760985560522772"})
+            let ayar = await config.findOne({guildID: settings.guildID})
             message.channel.send(new Discord.MessageEmbed().setTitle(`Ayarlar`, message.author.avatarURL({dynamic: true}))
             .addField(`
 \`\`\`OWNER SETTINGS\`\`\``, `
@@ -135,7 +135,7 @@ module.exports = {
             .setThumbnail(message.guild.iconURL({dynamic: true})))
         }
 
-        let pusha = await config.findOne({guildID: "945760985560522772"})
+        let pusha = await config.findOne({guildID: settings.guildID})
 
 
 //#region Guild

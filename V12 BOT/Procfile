@@ -1,1 +1,0 @@
-worker node pusha.js

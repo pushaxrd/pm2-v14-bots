@@ -10,9 +10,9 @@
 
 # BOT NASIL KURULUR
 
-- bot soyle kuruyoruz once setup bolumunu oraya kurup actıktan sonra setup komutuyla butun herseyi kurun ve eksiksiz tamamlayın 
-- setup botunda 2 kere nokta atın ve 2 boş embedi alip leaderboard kurabilirsiniz ve rahatlikta botu calısır ve hatasizdir
-- diyceksiniz bot nıye böyle yaptın arkadaşlar ben setup sistemini hic bilmiyorum ve anlamıyorum ve acıkca diyim bilmeyip ve anlamadıgım halde yaptim k.b hatasizdir iyi kullanımlar dilerim 
+- arkadaslar öncelikle chat ve ses leaderboard eventsekı klasorlerı dısa atın sonra 2 kere nokta atın ve o noktanın ıdsını alın atıgınız kanalında ztn belırtmısım sonra .kur yaparak botu kura bilirsiniz 
+
+- bot nezaman atacan dersenız hatalı baya var bıtırıyım hatasız yapayım öyle paylasam 
 
 
 # AÇIKLAMA

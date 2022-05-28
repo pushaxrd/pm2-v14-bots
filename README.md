@@ -24,6 +24,13 @@ Bu Bot Önce theark sonra aris lesnar sonra jaylen ve ben kısaca pusha gelistir
 Botumuzun özeliklerini size hemen sayam button ve menu sıstemı olmak uzere v13 yaranlanıp bır cok sey yapiyoruz suanda otomatık terfı buttonlu terfı gıbı ve bır cok sey daha coin sistemi ve hem public hemde ekip botu yanı ıstedıgınız gıbı kullana bilceksiniz gelismis kayıt sistemi olmak üzere bir cok sey daha vardır botumuzda herseyi gelisitip size buraya yanı atacaz ve site yapacaz botumuza suanda calısmalar devam edıyor guzel mfull mongolu v13 setup sıstemlı sıtelı bot olacaktır ve bunların hepsi bitikten sonra buraya atacagım ama istedigim star ve fork gelirse.
 
 
+- Setup Ve Ship Ve Kilit Komutunu Aldıgım Canzadedir 
+- alt yapi jaylenindir ve jaylenden alıp kendim gelistirmek bulunmaktayım
+- leaderboard Sistemi Terfi Kei Almis Bulunmaktayım
+- Buttonlu Süpheli Sistemini Jaylenden Almıs Bulunmaktayım V12 Cevirdim
+- Bana Yardım Eden Arkadaslarım Jugest / Peace / Jaylen / Ramal / Canzade / Adonis / Rowy / Floxy / Acerhizm / Meriaz'dır Bu İnsanlar Bana Yardımcı Olmustur Hatalarımda Ve Botu Yaparken Fikir Ve Bir Cok Seyde
+
+
 
 # Yapmanız gereken adımlar
 

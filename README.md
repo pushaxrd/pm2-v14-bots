@@ -93,7 +93,7 @@ const oyunlar = {
 #BOT GELİSTİRDİKCE BURAYA FOTORAFLAR BIRAKACAM.
 
 
-![image](https://cdn.discordapp.com/attachments/976774642956124182/978786774635642910/unknown.png)
+![image](https://cdn.discordapp.com/attachments/979081873085038632/980196665346633828/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/976774642956124182/978788366076219452/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/976774642956124182/978788409067847700/unknown.png)
 

@@ -4,8 +4,6 @@
  #BOT GELİSTİRİCİLERİ
 - ✰ Pushaizm#2869
 - ✰ Rowy#0013
-- Adonis ?#1923
-- floxy afk.#0242
 
 
 
@@ -14,7 +12,7 @@
 - alt yapi jaylenindir ve jaylenden alıp kendim gelistirmek bulunmaktayım
 - leaderboard Sistemi Terfi Kei Almis Bulunmaktayım
 - Buttonlu Süpheli Sistemini Jaylenden Almıs Bulunmaktayım V12 Cevirdim
-- Bana Yardım Eden Arkadaslarım Jugest / Peace / Jaylen / Ramal / Canzade / Adonis / Rowy / Floxy / Acerhizm / Meriaz'dır Bu İnsanlar Bana Yardımcı Olmustur Hatalarımda Ve Botu Yaparken Fikir Ve Bir Cok Seyde
+- Bana Yardım Eden Arkadaslarım Jugest / Peace / Jaylen / Ramal / Canzade / Adonis / Rowy / Acerhizm / Meriaz'dır Bu İnsanlar Bana Yardımcı Olmustur Hatalarımda Ve Botu Yaparken Fikir Ve Bir Cok Seyde
 
 
 # AÇIKLAMA

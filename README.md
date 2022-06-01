@@ -1,6 +1,9 @@
 # 75 Star 25 Fork Paylasacam.
 
-# BOT YAYINLAMA V12 SİMDİ PAYLASACAM V13 23.08.2022 DOOM GÜNÜMDE PAYLASACAM BEKLEMEDE KALIN TSK.
+# BOT YAYINLANMA TARİHİ
+
+- V12 2.06.2022
+- V13 23.08.2022
 
 # AÇIKLAMA
 Bu Bot Önce theark sonra aris lesnar sonra jaylen ve ben kısaca pusha gelistirdik ben sonra dahada cok gelistirdim setup sıstemınıde kurdum herseyıde kurdum etım arkadaslar ve bot artık biti v12 hali v13 gecirecekler botu ve birseyde kalmadı artık yapacam bir kac sey var onlarıda yaptıktan sonra v12 önce atacam ıstedıgım star ve fork gelincede v13 atacam

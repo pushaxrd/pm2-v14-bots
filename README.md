@@ -1,12 +1,5 @@
 # 75 Star 25 Fork Paylasacam.
 
-
- #BOT GELİSTİRİCİLERİ
-- ✰ Pushaizm#2869
-- ✰ Rowy#0013
-
-
-
 # BOT NASIL YAPTİM 
 - Setup Ve Ship Ve Kilit Komutunu Aldıgım Canzadedir 
 - alt yapi jaylenindir ve jaylenden alıp kendim gelistirmek bulunmaktayım
@@ -19,16 +12,15 @@
 Bu Bot Önce theark sonra aris lesnar sonra jaylen ve ben kısaca pusha gelistirdik ben sonra dahada cok gelistirdim setup sıstemınıde kurdum herseyıde kurdum etım arkadaslar ve bot artık biti v12 hali v13 gecirecekler botu ve birseyde kalmadı artık yapacam bir kac sey var onlarıda yaptıktan sonra v12 önce atacam ıstedıgım star ve fork gelincede v13 atacam
 
 
-
 # BOT ÖZELİKLERİ
 Botumuzun özeliklerini size hemen sayam button ve menu sıstemı olmak uzere v13 yaranlanıp bır cok sey yapiyoruz suanda otomatık terfı buttonlu terfı gıbı ve bır cok sey daha coin sistemi ve hem public hemde ekip botu yanı ıstedıgınız gıbı kullana bilceksiniz gelismis kayıt sistemi olmak üzere bir cok sey daha vardır botumuzda herseyi gelisitip size buraya yanı atacaz ve site yapacaz botumuza suanda calısmalar devam edıyor guzel mfull mongolu v13 setup sıstemlı sıtelı bot olacaktır ve bunların hepsi bitikten sonra buraya atacagım ama istedigim star ve fork gelirse.
 
-
 # BOT NASIL KURULUR
 
-- arkadaslar öncelikle chat ve ses leaderboard eventsekı klasorlerı dısa atın sonra 2 kere nokta atın ve o noktanın ıdsını alın atıgınız kanalında ztn belırtmısım sonra .kur yaparak botu kura bilirsiniz 
-
-- bot nezaman atacan dersenız hatalı baya var bıtırıyım hatasız yapayım öyle paylasam 
+- 1 .semakur Yaparak Öncelikle Semaları Kurucanız 
+- 2 .setup Yaparak Rolleri Belirliceniz Ve Kanaları
+- 3 Leadderboard Ses Ve Chat Klasorlerden Cıkartıp Önce 2 Kere . Atıyorsunuz Ve Boş Embed Geliyor Onlarin İd Giriyonuz Sonra Kanal İd Sonra Klasore Geri Koyup Çalismaya Hazır
+- 4 Setting Bot Ses Kanal İd Girmeyi Unutmayın Bide Sunucuayar.json Doldurmaya Unutmayın Yoksa Bot Calışmaz
 
 # Yapmanız gereken adımlar
 

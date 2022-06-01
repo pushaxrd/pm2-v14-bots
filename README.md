@@ -90,6 +90,7 @@ const oyunlar = {
 ![image](https://cdn.discordapp.com/attachments/976774642956124182/978788366076219452/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/976774642956124182/978788409067847700/unknown.png)
 
+![image](https://cdn.discordapp.com/attachments/945760987833847880/981653776882626621/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/976774642956124182/977527043279450142/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/972461533701492777/977519036097237012/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/972461533701492777/977519937155375115/unknown.png)

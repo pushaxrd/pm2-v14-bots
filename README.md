@@ -91,37 +91,52 @@ const oyunlar = {
 #BOT GELİSTİRDİKCE BURAYA FOTORAFLAR BIRAKACAM.
 
 
-![image](https://cdn.discordapp.com/attachments/979081873085038632/980196665346633828/unknown.png)
-![image](https://cdn.discordapp.com/attachments/976774642956124182/978788366076219452/unknown.png)
-![image](https://cdn.discordapp.com/attachments/976774642956124182/978788409067847700/unknown.png)
+# EGLENCE 
+![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/932380333821804564/unknown.png)
 
-![image](https://cdn.discordapp.com/attachments/945760987833847880/981653776882626621/unknown.png)
-![image](https://cdn.discordapp.com/attachments/976774642956124182/977527043279450142/unknown.png)
+# KULLANCI SİSTEMİ
+![image](https://cdn.discordapp.com/attachments/945760991805866014/976950716914597898/unknown.png)
+![image](https://cdn.discordapp.com/attachments/945760991805866014/976949465162330192/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/944154222008598598/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/944154060708261928/unknown.png)
+
+
+# OWNER
+![image](https://cdn.discordapp.com/attachments/932377086205788290/932377096884461618/unknown.png)
+![image](https://cdn.discordapp.com/attachments/945760987376648259/948931011943743560/unknown.png)
+
+# LEADERBOARD
+![image](https://cdn.discordapp.com/attachments/969556977522974750/981732574651097128/unknown.png)
+![image](https://cdn.discordapp.com/attachments/969556977522974750/981732390714081300/unknown.png)
+![image](https://cdn.discordapp.com/attachments/969556977522974750/981732446410244126/unknown.png)
+
+# BUTTON & MENÜ
+![image](https://cdn.discordapp.com/attachments/932377086205788290/944153907855253604/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/932378439338561606/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/932378376822472704/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/932378589184278569/unknown.png)
+![image](https://cdn.discordapp.com/attachments/969556977522974750/981732962984923156/unknown.png)
+
+# SETUP SİSTEM
+![image](https://cdn.discordapp.com/attachments/976774642956124182/978788409067847700/unknown.png)
+![image](https://cdn.discordapp.com/attachments/976774642956124182/978788366076219452/unknown.png)
+![image](https://cdn.discordapp.com/attachments/979081873085038632/980196665346633828/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/972461533701492777/977519036097237012/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/972461533701492777/977519937155375115/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/972461533701492777/977520028532473866/unknown.png)
+
+# STREAM ROOM SİSTEMİ
+![image](https://cdn.discordapp.com/attachments/976774642956124182/977527043279450142/unknown.png)
+
+# YETKİLİ SİSTEMİ
+![image](https://cdn.discordapp.com/attachments/945760987833847880/981653776882626621/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/976774642956124182/977275666858905682/unknown.png)
-![image](https://cdn.discordapp.com/attachments/945760991805866014/976950716914597898/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/945760991805866014/976950189615099945/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/954337657964613732/981605521754816622/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/945760991805866014/976949995506909234/unknown.png)
-![image](https://cdn.discordapp.com/attachments/945760991805866014/976949465162330192/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/944153907855253604/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378439338561606/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378511161835530/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/944154222008598598/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/944154060708261928/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377096884461618/unknown.png)
-![image](https://cdn.discordapp.com/attachments/945760987376648259/948931011943743560/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377740940836895/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377844305264680/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932378283704733746/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377204032159775/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377418696638615/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378376822472704/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932380333821804564/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378589184278569/unknown.png)
-![image](https://cdn.discordapp.com/attachments/945760991805866014/948929796497375253/unknown.png)
-![image](https://media.discordapp.net/attachments/945754309474271272/946380019448557578/unknown.png?width=631&height=473)
-

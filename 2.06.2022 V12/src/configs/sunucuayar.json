@@ -1,0 +1,29 @@
+﻿{
+  "tag": "✰",
+
+
+  "ekipRolu": ["945760985673764968"],
+  "unregRoles": ["945760985648607321"],
+  "boosterRolu": "945761792846626866",
+  "staffs": ["945760985707339841"],
+
+  "rankLog": "969760771301060728",
+
+  
+  "chatChannel": "945760987833847878",
+  
+  "nsfwlog" : "nsfw-log", 
+  "komutLog" : "komutLog", 
+  "rollogchannel": "rollogchannel",
+  "voiceLogChannel": "voicelogchannel",
+  "messageLogChannel": "messageLogChannel",
+
+  "publicParents": ["945760988257460230"],
+  "privateParents": ["945760988836282377"], 
+  "aloneParents": [ "945760989301841976"], 
+  "funParents": ["945760987833847883"], 
+  "registerParents": ["945760986411991143"], 
+  "solvingParents": ["923331952549978166"]
+
+
+}

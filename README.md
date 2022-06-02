@@ -5,6 +5,10 @@
 - V12 2.06.2022
 - V13 23.08.2022
 
+# BOT DESTEK SUNUCUMUZ
+https://discord.gg/62hAGf2gxf
+
+
 # AÇIKLAMA
 Bu Bot Önce theark sonra aris lesnar sonra jaylen ve ben kısaca pusha gelistirdik ben sonra dahada cok gelistirdim setup sıstemınıde kurdum herseyıde kurdum etım arkadaslar ve bot artık biti v12 hali v13 gecirecekler botu ve birseyde kalmadı artık yapacam bir kac sey var onlarıda yaptıktan sonra v12 önce atacam ıstedıgım star ve fork gelincede v13 atacam
 
@@ -23,7 +27,8 @@ Botumuzun özeliklerini size hemen sayam button ve menu sıstemı olmak uzere v1
 - 1 .semakur Yaparak Öncelikle Semaları Kurucanız 
 - 2 .setup Yaparak Rolleri Belirliceniz Ve Kanaları
 - 3 Leadderboard Ses Ve Chat Klasorlerden Cıkartıp Önce 2 Kere . Atıyorsunuz Ve Boş Embed Geliyor Onlarin İd Giriyonuz Sonra Kanal İd Sonra Klasore Geri Koyup Çalismaya Hazır
-- 4 Setting Bot Ses Kanal İd Girmeyi Unutmayın Bide Sunucuayar.json Doldurmaya Unutmayın Yoksa Bot Calışmaz
+- 4 Setting Bot Ses Kanal İd Girmeyi Unutmayın Bide Sunucuayar.json Doldurmaya Unutmayın Yoksa Bot Calışmaz 
+- 5 En Önemli Bölüm Bura "myFirstDatabase?retryWrites=true&w=majority" Mongo Url Sonlarına Geldinizde myFirstDatabase Yazar Onun İsmini Değisin Ve Setup Hertürlü Çalısır Hata Alirsaniz Bunu Yapin Yada İstersenizde Yapin Size Kalmıs Kısaca.
 
 # Yapmanız gereken adımlar
 

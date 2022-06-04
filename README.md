@@ -94,6 +94,10 @@ const oyunlar = {
 # EGLENCE 
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380333821804564/unknown.png)
+![image](https://cdn.discordapp.com/attachments/979081873085038632/982720765470339105/unknown.png)
+![image](https://cdn.discordapp.com/attachments/979081873085038632/982724166216192031/unknown.png)
+![image](https://cdn.discordapp.com/attachments/979081873085038632/982728117921656862/unknown.png)
+![image](https://cdn.discordapp.com/attachments/979081873085038632/982728188033654814/unknown.png)
 
 # KULLANCI SİSTEMİ
 ![image](https://cdn.discordapp.com/attachments/945760991805866014/976950716914597898/unknown.png)

@@ -1,34 +1,9 @@
-# 75 Star 25 Fork Paylasacam.
-
-# BOT YAYINLANMA TARİHİ
-
-- V12 2.06.2022
-- V13 23.08.2022
-
-# BOT DESTEK SUNUCUMUZ
-https://discord.gg/62hAGf2gxf
-
-
-# AÇIKLAMA
-Bu Bot Önce theark sonra aris lesnar sonra jaylen ve ben kısaca pusha gelistirdik ben sonra dahada cok gelistirdim setup sıstemınıde kurdum herseyıde kurdum etım arkadaslar ve bot artık biti v12 hali v13 gecirecekler botu ve birseyde kalmadı artık yapacam bir kac sey var onlarıda yaptıktan sonra v12 önce atacam ıstedıgım star ve fork gelincede v13 atacam
-
 # BOT NASIL YAPTİM 
 - Setup Ve Ship Ve Kilit Komutunu Aldıgım Canzadedir 
 - alt yapi jaylenindir ve jaylenden alıp kendim gelistirmek bulunmaktayım
 - leaderboard Sistemi Terfi Kei Almis Bulunmaktayım
 - Buttonlu Süpheli Sistemini Jaylenden Almıs Bulunmaktayım V12 Cevirdim
 - Bana Yardım Eden Arkadaslarım / Jaylen / Canzade /Rowy / Acerhizm / Bu 4 Kisi Sayesinde Botu Bu Hale Getirdim Ve Bot Hata Olsun Setup Hata Olsun Canzade Yardımcı Oldu Tsk Ederim Öncelikle Onada Yineden Bir Çok Komutu Yaptik Ve Bitirmis Bulunmaktayım 
-
-# BOT ÖZELİKLERİ
-Botumuzun özeliklerini size hemen sayam button ve menu sıstemı olmak uzere v13 yaranlanıp bır cok sey yapiyoruz suanda otomatık terfı buttonlu terfı gıbı ve bır cok sey daha coin sistemi ve hem public hemde ekip botu yanı ıstedıgınız gıbı kullana bilceksiniz gelismis kayıt sistemi olmak üzere bir cok sey daha vardır botumuzda herseyi gelisitip size buraya yanı atacaz ve site yapacaz botumuza suanda calısmalar devam edıyor guzel mfull mongolu v13 setup sıstemlı sıtelı bot olacaktır ve bunların hepsi bitikten sonra buraya atacagım ama istedigim star ve fork gelirse.
-
-# BOT NASIL KURULUR
-
-- 1 .semakur Yaparak Öncelikle Semaları Kurucanız 
-- 2 .setup Yaparak Rolleri Belirliceniz Ve Kanaları
-- 3 Leadderboard Ses Ve Chat Klasorlerden Cıkartıp Önce 2 Kere . Atıyorsunuz Ve Boş Embed Geliyor Onlarin İd Giriyonuz Sonra Kanal İd Sonra Klasore Geri Koyup Çalismaya Hazır
-- 4 Setting Bot Ses Kanal İd Girmeyi Unutmayın Bide Sunucuayar.json Doldurmaya Unutmayın Yoksa Bot Calışmaz 
-- 5 En Önemli Bölüm Bura "myFirstDatabase?retryWrites=true&w=majority" Mongo Url Sonlarına Geldinizde myFirstDatabase Yazar Onun İsmini Değisin Ve Setup Hertürlü Çalısır Hata Alirsaniz Bunu Yapin Yada İstersenizde Yapin Size Kalmıs Kısaca.
 
 # Yapmanız gereken adımlar
 

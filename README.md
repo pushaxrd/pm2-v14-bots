@@ -1,5 +1,9 @@
 # İHANET SONUCU BUTUN BOTLARI ATMAYA KARAR VERDİM :d
 
+
+# BUTUN KULLANDIGIM BOTLARI ATACAM BURAYA IZLEYIN. BENI IFSALICAKLARMIS KIM KIMI OPUYOR GOREK .D
+
+
 # Yapmanız gereken adımlar
 
 Not: Aşağıdaki rol menü sisteminde sol kısımdakiler emoji id isterseniz öyle kalabilir o kısım beğenmezseniz değişirsiniz, sağ kısımlarındaki ise rol idleridir. Sırasıyla .menü <katılım/burc/oyun/renk/iliski/etkin> komutları kullanılırsa alttaki ss düzeninde olucaktır menü sistemi

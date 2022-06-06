@@ -1,9 +1,4 @@
-# BOT NASIL YAPTİM 
-- Setup Ve Ship Ve Kilit Komutunu Aldıgım Canzadedir 
-- alt yapi jaylenindir ve jaylenden alıp kendim gelistirmek bulunmaktayım
-- leaderboard Sistemi Terfi Kei Almis Bulunmaktayım
-- Buttonlu Süpheli Sistemini Jaylenden Almıs Bulunmaktayım V12 Cevirdim
-- Bana Yardım Eden Arkadaslarım / Jaylen / Canzade /Rowy / Acerhizm / Bu 4 Kisi Sayesinde Botu Bu Hale Getirdim Ve Bot Hata Olsun Setup Hata Olsun Canzade Yardımcı Oldu Tsk Ederim Öncelikle Onada Yineden Bir Çok Komutu Yaptik Ve Bitirmis Bulunmaktayım 
+# İHANET SONUCU BUTUN BOTLARI ATMAYA KARAR VERDİM :d
 
 # Yapmanız gereken adımlar
 

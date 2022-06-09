@@ -97,10 +97,11 @@ const oyunlar = {
 
 # STREAM ROOM SİSTEMİ
 ![image](https://cdn.discordapp.com/attachments/984181188409319514/984254679380787230/unknown.png)
-![image]https://cdn.discordapp.com/attachments/984181188409319514/984405219851005962/unknown.png)
-![image]https://cdn.discordapp.com/attachments/984181188409319514/984405300645888032/unknown.png)
+
 # CEZA SİSTEMİ
 ![image](https://cdn.discordapp.com/attachments/984181188409319514/984222897675571290/unknown.png)
+![image]https://cdn.discordapp.com/attachments/984181188409319514/984405219851005962/unknown.png)
+![image]https://cdn.discordapp.com/attachments/984181188409319514/984405300645888032/unknown.png)
 
 # YETKİLİ SİSTEMİ
 ![image](https://cdn.discordapp.com/attachments/945760987833847880/981653776882626621/unknown.png)

@@ -105,6 +105,7 @@ const oyunlar = {
 ![image](https://cdn.discordapp.com/attachments/984181188409319514/984423630396080158/unknown.png)
 
 # YETKİLİ SİSTEMİ
+![image](https://cdn.discordapp.com/attachments/984181188409319514/984550238238949416/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/945760987833847880/981653776882626621/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/976774642956124182/977275666858905682/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/945760991805866014/976950189615099945/unknown.png)

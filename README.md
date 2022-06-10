@@ -1,4 +1,3 @@
-# 100 STAR GELİRSE V13 PAYLASACAM DİREK HİC UGRASMICAM V12LE.
 
 
 # Yapmanız gereken adımlar

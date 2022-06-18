@@ -124,6 +124,5 @@ const oyunlar = {
 # MUSİC BOTU
 
 ![image](https://cdn.discordapp.com/attachments/969526673856946176/987827320859537458/unknown.png)
-
 ![image](https://cdn.discordapp.com/attachments/969526673856946176/987827150868602990/unknown.png)
 

@@ -60,6 +60,7 @@ const oyunlar = {
 ```
 # BOT GELİSTİRDİKCE BURAYA FOTORAFLAR BIRAKACAM.
 
+# MAİN BOT
 
 # EGLENCE 
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
@@ -118,3 +119,11 @@ const oyunlar = {
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932378283704733746/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377204032159775/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377418696638615/unknown.png)
+
+
+# MUSİC BOTU
+
+![image](https://cdn.discordapp.com/attachments/969526673856946176/987827320859537458/unknown.png)
+
+![image](https://cdn.discordapp.com/attachments/969526673856946176/987827150868602990/unknown.png)
+

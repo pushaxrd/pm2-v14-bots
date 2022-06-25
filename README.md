@@ -1,3 +1,11 @@
+# GELİSTİRCİLER
+
+PUSHA / RAMAL
+
+
+# BOT NASIL YAPİLDİ
+
+bu bot nasıl yaptin diye sorarsanız bu botu ilk yapan kisi theark sonra aris lesnar sonra jaylen sonra pusha ve ramal botu tamamen gelistirmek durumundayız bot paylasilcakmı evt v12 paylasacaz sadece v13 satın almak icin discord.gg/marino girerek ramal yada pusha yazarak alabilirsiniz botları
 
 
 # Yapmanız gereken adımlar
@@ -120,10 +128,4 @@ const oyunlar = {
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932378283704733746/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377204032159775/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377418696638615/unknown.png)
-
-
-# MUSİC BOTU
-
-![image](https://cdn.discordapp.com/attachments/969526673856946176/987827320859537458/unknown.png)
-![image](https://cdn.discordapp.com/attachments/969526673856946176/987827150868602990/unknown.png)
-
+![image](https://user-images.githubusercontent.com/66915947/175788553-efb4b1f4-04d0-493d-8b72-b1789aa5e000.png)

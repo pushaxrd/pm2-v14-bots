@@ -74,6 +74,7 @@ const oyunlar = {
 ![image](https://cdn.discordapp.com/attachments/945760991805866014/976949465162330192/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/944154222008598598/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/944154060708261928/unknown.png)
+![image](https://user-images.githubusercontent.com/66915947/175782574-78b6da3d-d765-40ae-a599-593f57267591.png)
 
 
 # OWNER

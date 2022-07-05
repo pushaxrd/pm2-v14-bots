@@ -68,8 +68,6 @@ const oyunlar = {
 ```
 # BOT GELİSTİRDİKCE BURAYA FOTORAFLAR BIRAKACAM.
 
-# MAİN BOT
-
 # EGLENCE 
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/979081873085038632/982720765470339105/unknown.png)

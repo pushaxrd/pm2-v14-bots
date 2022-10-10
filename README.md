@@ -1,6 +1,6 @@
-# GELİSTİRCİLER
+# 120 starda v13 burda
 
-PUSHA / RAMAL
+
 
 
 # BOT NASIL YAPİLDİ
@@ -68,62 +68,5 @@ const oyunlar = {
 ```
 # BOT GELİSTİRDİKCE BURAYA FOTORAFLAR BIRAKACAM.
 
-# EGLENCE 
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
-![image](https://cdn.discordapp.com/attachments/979081873085038632/982720765470339105/unknown.png)
-![image](https://cdn.discordapp.com/attachments/979081873085038632/982724166216192031/unknown.png)
-![image](https://cdn.discordapp.com/attachments/979081873085038632/982728117921656862/unknown.png)
-![image](https://cdn.discordapp.com/attachments/979081873085038632/982728188033654814/unknown.png)
-
-# KULLANCI SİSTEMİ
-![image](https://cdn.discordapp.com/attachments/945760991805866014/976950716914597898/unknown.png)
-![image](https://cdn.discordapp.com/attachments/945760991805866014/976949465162330192/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/944154222008598598/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/944154060708261928/unknown.png)
-![image](https://user-images.githubusercontent.com/66915947/175782574-78b6da3d-d765-40ae-a599-593f57267591.png)
 
 
-# OWNER
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377096884461618/unknown.png)
-![image](https://cdn.discordapp.com/attachments/945760987376648259/948931011943743560/unknown.png)
-
-# LEADERBOARD
-![image](https://cdn.discordapp.com/attachments/969556977522974750/981732574651097128/unknown.png)
-![image](https://cdn.discordapp.com/attachments/969556977522974750/981732390714081300/unknown.png)
-![image](https://cdn.discordapp.com/attachments/969556977522974750/981732446410244126/unknown.png)
-
-# BUTTON & MENÜ
-![image](https://cdn.discordapp.com/attachments/932377086205788290/944153907855253604/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378439338561606/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378376822472704/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378589184278569/unknown.png)
-![image](https://cdn.discordapp.com/attachments/969556977522974750/981732962984923156/unknown.png)
-
-# SETUP SİSTEM
-![image](https://cdn.discordapp.com/attachments/976774642956124182/978788409067847700/unknown.png)
-![image](https://cdn.discordapp.com/attachments/976774642956124182/978788366076219452/unknown.png)
-![image](https://cdn.discordapp.com/attachments/979081873085038632/980196665346633828/unknown.png)
-
-
-# STREAM ROOM SİSTEMİ
-![image](https://cdn.discordapp.com/attachments/984181188409319514/984254679380787230/unknown.png)
-
-# CEZA SİSTEMİ
-![image](https://cdn.discordapp.com/attachments/984181188409319514/984222897675571290/unknown.png)
-![image](https://cdn.discordapp.com/attachments/984181188409319514/984405219851005962/unknown.png)
-![image](https://cdn.discordapp.com/attachments/984181188409319514/984405300645888032/unknown.png)
-![image](https://cdn.discordapp.com/attachments/984181188409319514/984423630396080158/unknown.png)
-
-# YETKİLİ SİSTEMİ
-![image](https://cdn.discordapp.com/attachments/984181188409319514/984550238238949416/unknown.png)
-![image](https://cdn.discordapp.com/attachments/945760987833847880/981653776882626621/unknown.png)
-![image](https://cdn.discordapp.com/attachments/976774642956124182/977275666858905682/unknown.png)
-![image](https://cdn.discordapp.com/attachments/945760991805866014/976950189615099945/unknown.png)
-![image](https://cdn.discordapp.com/attachments/954337657964613732/981605521754816622/unknown.png)
-![image](https://cdn.discordapp.com/attachments/945760991805866014/976949995506909234/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377740940836895/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377844305264680/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378283704733746/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377204032159775/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377418696638615/unknown.png)
-![image](https://user-images.githubusercontent.com/66915947/175788553-efb4b1f4-04d0-493d-8b72-b1789aa5e000.png)

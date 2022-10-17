@@ -1,11 +1,4 @@
-# 120 starda v13 burda
-
-
-
-
-# BOT NASIL YAPİLDİ
-
-bu bot nasıl yaptin diye sorarsanız bu botu ilk yapan kisi theark sonra aris lesnar sonra jaylen sonra pusha ve ramal botu tamamen gelistirmek durumundayız bot paylasilcakmı evt v12 paylasacaz sadece v13 satın almak icin discord.gg/marino girerek ramal yada pusha yazarak alabilirsiniz botları
+#BEYLER BOTU BİTİRDİM AMA SEY 100 STARDA ATARIM YA BASKA HC BIR TURLU ATMAM BİLGİNİZE 
 
 
 # Yapmanız gereken adımlar

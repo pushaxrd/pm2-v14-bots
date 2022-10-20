@@ -7,7 +7,7 @@ BOT RAMAL KARDESIMLE BİRLİKTE YAPİLMİSTİR VE ARİS LESNARIN ALT YAPİSİDİ
 # BOTUN FOTORAFLARINI ASAGA BIRAKIYORUM
 
 
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032453812868354098/unknown.pngg)
+![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032453812868354098/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032454275424583780/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032454091626000484/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032453980988637214/unknown.png)

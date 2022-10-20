@@ -6,12 +6,13 @@ BOT RAMAL KARDESIMLE BİRLİKTE YAPİLMİSTİR VE ARİS LESNARIN ALT YAPİSİDİ
 
 # BOTUN FOTORAFLARINI ASAGA BIRAKIYORUM
 
+
+![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032453812868354098/unknown.pngg)
+![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032454275424583780/unknown.png)
+![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032454091626000484/unknown.png)
+![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032453980988637214/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032396678742949919/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032397397512429579/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032453812868354098/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032453980988637214/unknown.png)
-![image](![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032454091626000484/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032454275424583780/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032398305914798160/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032398306380361808/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032398499121209455/unknown.png)

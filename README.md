@@ -6,16 +6,25 @@ BOT RAMAL KARDESIMLE BİRLİKTE YAPİLMİSTİR VE ARİS LESNARIN ALT YAPİSİDİ
 
 # BOTUN FOTORAFLARINI ASAGA BIRAKIYORUM
 
+Main Görseler
+![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105584129321476196/image.png)
 
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032453812868354098/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032454275424583780/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032454091626000484/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032453980988637214/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032396678742949919/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032397397512429579/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032398305914798160/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032398306380361808/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032398499121209455/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032398892253315092/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032400642905493544/unknown.png)
-![image](https://cdn.discordapp.com/attachments/1019165198109646858/1032412439930732604/unknown.png)
+Muzik Görseler
+
+Çekilis Görseler
+![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583575589462096/image.png)
+
+Destek Görseler
+![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583348165906563/image.png)
+![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583423638225006/image.png)
+
+Welcome Görseler
+![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583162718945432/image.png)
+![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583222932394175/image.png)
+
+Guard Görseler
+![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105582817934590072/image.png)
+![image](https://cdn.discordapp.com/attachments/1095801704953430110/1105581997365141514/image.png)
+![image](https://cdn.discordapp.com/attachments/1095801704953430110/1105582038066679868/image.png)
+![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105582615169355776/image.png)
+![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105582644630130688/image.png)

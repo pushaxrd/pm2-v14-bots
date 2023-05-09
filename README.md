@@ -6,23 +6,23 @@ BOT RAMAL KARDESIMLE BİRLİKTE YAPİLMİSTİR VE ARİS LESNARIN ALT YAPİSİDİ
 
 # BOTUN FOTORAFLARINI ASAGA BIRAKIYORUM
 
-Main Görseler
+# Main Görseler
 ![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105584129321476196/image.png)
 
-Muzik Görseler
+# Muzik Görseler
 
-Çekilis Görseler
+# Çekilis Görseler
 ![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583575589462096/image.png)
 
-Destek Görseler
+# Destek Görseler
 ![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583348165906563/image.png)
 ![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583423638225006/image.png)
 
-Welcome Görseler
+# Welcome Görseler
 ![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583162718945432/image.png)
 ![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105583222932394175/image.png)
 
-Guard Görseler
+# Guard Görseler
 ![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105582817934590072/image.png)
 ![image](https://cdn.discordapp.com/attachments/1095801704953430110/1105581997365141514/image.png)
 ![image](https://cdn.discordapp.com/attachments/1095801704953430110/1105582038066679868/image.png)

@@ -4,6 +4,19 @@ BOT V13 VE PM2 Bİ ALT YAPIDIR DAHA BİTMEDİ 100 STAR OLUNCA REPORT BURDAN BOTU
 # BOTUN FOTORAFLARINI ASAGA BIRAKIYORUM
 
 # Main Görseler
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109843590571638834/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109843765050474526/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109843814341947622/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109843883015286925/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109844021548941512/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109844444389326928/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109844686832681061/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109844839169806366/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109845205500309537/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109845304091627571/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109845351810203719/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109845560262926438/image.png)
+![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109843590571638834/image.png)
 ![image](https://media.discordapp.net/attachments/1008848052263583935/1105967330208534628/image.png?width=412&height=462)
 ![image](https://cdn.discordapp.com/attachments/1085285812993794140/1105584129321476196/image.png)
 ![image](https://cdn.discordapp.com/attachments/1096044383222116362/1107081320238162021/image.png)

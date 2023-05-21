@@ -1,0 +1,41 @@
+{
+  "name": "v13-pusha",
+  "version": "1.0.0",
+  "description": "ananı sikim hayat",
+  "main": "app.config.js",
+  "scripts": {
+    "start": "pm2 start app.config.js"
+  },
+  "keywords": [],
+  "author": "Pusha",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.8.0",
+    "ark.db": "^2.7.1",
+    "axios": "^0.26.1",
+    "canvas": "^2.11.2",
+    "canvas-constructor": "^4.1.0",
+    "chart.js": "^3.7.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "common-tags": "^1.8.2",
+    "cron": "^1.8.2",
+    "discord-api-types": "^0.33.3",
+    "discord-logs": "^2.0.1",
+    "discord-modals": "^1.2.2",
+    "discord-together": "^1.3.3",
+    "discord.js": "^13.14.0",
+    "discord.js-selfbot-v13": "^2.3.7",
+    "express": "^4.17.3",
+    "humanize-duration": "^3.27.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.3.3",
+    "ms": "^2.1.3",
+    "pm2": "^5.3.0",
+    "request": "^2.88.2",
+    "string-table": "^0.1.5",
+    "table": "^6.8.0"
+  }
+}

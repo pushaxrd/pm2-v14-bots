@@ -7,7 +7,6 @@ iyi kodlamalar Dilerim
 3 kisi tarafından yapılmıstır bot cartel/minik/pusha
 
 # BOTUN FOTORAFLARINI ASAGA BIRAKIYORUM
-![image](https://cdn.discordapp.com/attachments/1096044383222116362/1109843590571638834/image.png)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1186438539982929920/image.png?ex=65aeef7e&is=659c7a7e&hm=52a9905733d74e0a845bcde13d082530e2005f52decd0d6d6fb53607ef366c8a&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1186438713916538981/image.png?ex=65aeefa8&is=659c7aa8&hm=8684b1a8c9925d1a8fd653fbc42f20c7df11d9874770cb9d0d625efafd9774c7&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1186440015149011024/image.png?ex=65aef0de&is=659c7bde&hm=f67e833ae0cb440363bd552cb8258199d65e4c673e6c1b1ebfc5f284fdc0ca35&)

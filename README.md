@@ -44,3 +44,6 @@ iyi kodlamalar Dilerim
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1194397296192913548/image.png?ex=65b0342a&is=659dbf2a&hm=8a084381d95c1c6fdec571d85fe731fe7bd128fab93cb8bdf3d6ae95bfaa4473&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1194397420113633310/image.png?ex=65b03447&is=659dbf47&hm=ab8b401f4650a21f32d7d95a85e0020e8b6f08c854914ba786bcc95c14e2384b&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1194398193526521896/image.png?ex=65b03500&is=659dc000&hm=8c522ddb2ba82cb8d5e99757c01533c3a1ad920800727534088adc8dfe2fcc5a&)
+![image](https://cdn.discordapp.com/attachments/1186438528616366160/1195467567939203232/image.png?ex=65b418ee&is=65a1a3ee&hm=054a7abf9707d6024a34466b0c85213de068bc9c62975595f3a864a6054dae00&)
+![image](https://cdn.discordapp.com/attachments/1186438528616366160/1195472762198839338/image.png?ex=65b41dc5&is=65a1a8c5&hm=32d34da1da7d38086dc99b7abe8f2bbbb969fc3aa8d52fb134517916c857ff16&)
+![image](https://cdn.discordapp.com/attachments/1186438528616366160/1195472865743601796/image.png?ex=65b41dde&is=65a1a8de&hm=886273d8a60a2125dfbce690a37044b689401520391ee99f22d23ea143cfcd9e&)

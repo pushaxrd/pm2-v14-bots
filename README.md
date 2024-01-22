@@ -1,10 +1,8 @@
 # BOT HAKKINDA BİLGİ
-Mehrabalar Herkese Ben Pusha Size Güzel v13 Gelistirdim Sistemi v14 Yapmıs Bulunmaktayım Hatasız Ve Sıfır Botumuzu Paylasacam 200 Starda 
-200 Starı Bekleyemem Diyenler Satın Alabılırsınız Botu
-Bilgi Almak İcin discord.gg/themarino Sunucusuna Beklerim
-iyi kodlamalar Dilerim
+Mehrabalar Arkadaslar Size Hem Ekip Hem Priw Hemde Public Botu V14 PM2 Botları Sunuyorum Botu Yaparken Bana Yardım Eden 
+Papaz Chavo / Ancient Chavo / For Cartel / For Minik / necikles / Dostlarıma Tşk Ediyorum 
 
-3 kisi tarafından yapılmıstır bot cartel/minik/pusha
+Bot Satılıktır Almak İsteyenler Asağada Bırakıcam Discord Link Gelip Fiyat Bilgisi Alabılır
 
 # BOTUN FOTORAFLARINI ASAGA BIRAKIYORUM
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1186438539982929920/image.png?ex=65aeef7e&is=659c7a7e&hm=52a9905733d74e0a845bcde13d082530e2005f52decd0d6d6fb53607ef366c8a&)

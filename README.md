@@ -13,7 +13,8 @@ Bot Satılıktır Almak İsteyenler Asağada Bırakıcam Discord Link Gelip Fiya
  <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/9eeb23be-30cc-4499-a2f9-6d1d183402ec">
 <details>
 
-# BOTUN FOTORAFLARINI ASAGA BIRAKIYORUM
+### Komutlar
+<details>
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1186438539982929920/image.png?ex=65aeef7e&is=659c7a7e&hm=52a9905733d74e0a845bcde13d082530e2005f52decd0d6d6fb53607ef366c8a&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1186438713916538981/image.png?ex=65aeefa8&is=659c7aa8&hm=8684b1a8c9925d1a8fd653fbc42f20c7df11d9874770cb9d0d625efafd9774c7&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1186440015149011024/image.png?ex=65aef0de&is=659c7bde&hm=f67e833ae0cb440363bd552cb8258199d65e4c673e6c1b1ebfc5f284fdc0ca35&)
@@ -53,3 +54,5 @@ Bot Satılıktır Almak İsteyenler Asağada Bırakıcam Discord Link Gelip Fiya
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1195467567939203232/image.png?ex=65b418ee&is=65a1a3ee&hm=054a7abf9707d6024a34466b0c85213de068bc9c62975595f3a864a6054dae00&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1195472762198839338/image.png?ex=65b41dc5&is=65a1a8c5&hm=32d34da1da7d38086dc99b7abe8f2bbbb969fc3aa8d52fb134517916c857ff16&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1195472865743601796/image.png?ex=65b41dde&is=65a1a8de&hm=886273d8a60a2125dfbce690a37044b689401520391ee99f22d23ea143cfcd9e&)
+<details>
+

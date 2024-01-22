@@ -15,12 +15,17 @@ Bot Satılıktır Almak İsteyenler Asağada Bırakıcam Discord Link Gelip Fiya
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1197291521083449385/image.png?ex=65babb9f&is=65a8469f&hm=35bd2bb1ec98cf9efd86bf00776d77556c0f8959c3d06b0f836c9ef36c8dabf9&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1197291669331132487/image.png?ex=65babbc2&is=65a846c2&hm=b50bfc92eecbe41dbf6f9c15e38978aa2e7d9d472039f19b18575a4ebd4927af&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1194395768853905459/image.png?ex=65b96d3e&is=65a6f83e&hm=72b8fa8f1b9ed931f70544206fc9b9556d5b2f24af9208e396e4e92f42ae2e6c&)
-![image](https://cdn.discordapp.com/attachments/1186438528616366160/1194395768853905459/image.png?ex=65b96d3e&is=65a6f83e&hm=72b8fa8f1b9ed931f70544206fc9b9556d5b2f24af9208e396e4e92f42ae2e6c&)
+![image](https://cdn.discordapp.com/attachments/1186438528616366160/1194395363751231538/image.png?ex=65b96cdd&is=65a6f7dd&hm=16038f20991f276bf8d05e7b8f8580cdd23a70b84c4b41b8a5b43784273893f6&)
+![image](https://cdn.discordapp.com/attachments/1186438528616366160/1194395405929156819/image.png?ex=65b96ce7&is=65a6f7e7&hm=e48b5deaa3d37d776ff8d372b1831f08055632b75bb5cf4bd3a0eb93b5232d33&)
 
 # Statistics
+![image]()
+![image]()
 
-# Moderation
+# Moderatio! 
+[image]()n
 
 # Welcome
-
+![image]()
 # Guard
+![image]()

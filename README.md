@@ -4,6 +4,15 @@ Papaz Chavo / Ancient Chavo / For Cartel / For Minik / necikles / Dostlarıma T�
 
 Bot Satılıktır Almak İsteyenler Asağada Bırakıcam Discord Link Gelip Fiyat Bilgisi Alabılır
 
+### Komutlar
+<details>
+ <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/baa65779-ccc3-4145-80b0-100a6801ae8a">
+ <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/3df651c7-dc5f-4ded-a2bd-ee84f0f1c738">
+ <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/8797d6e2-669e-4bff-baf3-ee623f3c3281">
+ <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/72c4a725-0113-4e04-9dea-c0af923f4e26">
+ <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/9eeb23be-30cc-4499-a2f9-6d1d183402ec">
+<details>
+
 # BOTUN FOTORAFLARINI ASAGA BIRAKIYORUM
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1186438539982929920/image.png?ex=65aeef7e&is=659c7a7e&hm=52a9905733d74e0a845bcde13d082530e2005f52decd0d6d6fb53607ef366c8a&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1186438713916538981/image.png?ex=65aeefa8&is=659c7aa8&hm=8684b1a8c9925d1a8fd653fbc42f20c7df11d9874770cb9d0d625efafd9774c7&)

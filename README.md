@@ -11,7 +11,7 @@ Bot Satılıktır Almak İsteyenler Asağada Bırakıcam Discord Link Gelip Fiya
  <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/8797d6e2-669e-4bff-baf3-ee623f3c3281">
  <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/72c4a725-0113-4e04-9dea-c0af923f4e26">
  <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/9eeb23be-30cc-4499-a2f9-6d1d183402ec">
-<details>
+
 
 ### Komutlar
 <details>
@@ -20,7 +20,7 @@ Bot Satılıktır Almak İsteyenler Asağada Bırakıcam Discord Link Gelip Fiya
  <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/8797d6e2-669e-4bff-baf3-ee623f3c3281">
  <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/72c4a725-0113-4e04-9dea-c0af923f4e26">
  <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/9eeb23be-30cc-4499-a2f9-6d1d183402ec">
-<details>
+
 ### Komutlar
 <details>
  <img width="450" alt="image" src="https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/baa65779-ccc3-4145-80b0-100a6801ae8a">

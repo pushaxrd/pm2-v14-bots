@@ -3,11 +3,20 @@ Mehrabalar Arkadaslar Size Hem Ekip Hem Priw Hemde Public Botu V14 PM2 Botları 
 Papaz Chavo / Ancient Chavo / For Cartel / For Minik / necikles / Dostlarıma Tşk Ediyorum 
 
 Bot Satılıktır Almak İsteyenler Asağada Bırakıcam Discord Link Gelip Fiyat Bilgisi Alabılır
-discord.gg/themarino 
-Disoord Hesabım forpusha
+discord.gg/asteron 
+Disoord Hesabım pushaxrd
 instagram hesabım pusha__23
 
 # BOT ÖZELİKLERİ
+
+# DİĞER VE SON SESLER
+![image](https://cdn.discordapp.com/attachments/1256003205293412362/1256003218748739695/image.png?ex=667f2fa6&is=667dde26&hm=b9239c1766d26c26f9d579c8453115975016c0f5ee09de16b054c24637668134&)
+![image](https://cdn.discordapp.com/attachments/1256003205293412362/1256003338797842433/image.png?ex=667f2fc3&is=667dde43&hm=e08cf30c53fe93421bf14cd08aadc50c520372c1e09641ba6e941341d178edb6&)
+![image](https://cdn.discordapp.com/attachments/1256003205293412362/1256003473498181723/image.png?ex=667f2fe3&is=667dde63&hm=eaa701c9f3efa5cffb75388fa9f1360e2191022bcddbc35e924d89bb1e157e59&)
+![image](https://cdn.discordapp.com/attachments/1256003205293412362/1256003890420388000/image.png?ex=667f3046&is=667ddec6&hm=d1ddcf85137d4d2565523c53d6c7da9c5cd4e020efd406204ae583d29c403f31&)
+![image](https://cdn.discordapp.com/attachments/1256003205293412362/1256004137385066596/image.png?ex=667f3081&is=667ddf01&hm=427b5096164eb16b4429dc8489f66019f263a436236a95e0d739d5f3f72b59db&)
+![image](https://cdn.discordapp.com/attachments/1256003205293412362/1256004238681575554/image.png?ex=667f3099&is=667ddf19&hm=b8c1ce135991651c9b49818dc5e74141bb3f777b25e7af303e0f1f5adc85ba21&)
+![image](https://cdn.discordapp.com/attachments/1256003205293412362/1256004591087259678/image.png?ex=667f30ed&is=667ddf6d&hm=e1232d1018e10019cdbe97c91239d9e15e91c7aef5e1a873d85d89ca6a83a10c&)
 
 # Register 
 ![image](https://cdn.discordapp.com/attachments/1198929766921805865/1198929950825263124/image.png?ex=65c0b187&is=65ae3c87&hm=fdd77015f0a65657110ecbba4b43d6c364eaf2a6093574aed9a54cda74cd0225&)

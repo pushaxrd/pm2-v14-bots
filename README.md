@@ -19,8 +19,10 @@ instagram hesabım pusha__23
 ![image](https://cdn.discordapp.com/attachments/1256003205293412362/1256004591087259678/image.png?ex=667f30ed&is=667ddf6d&hm=e1232d1018e10019cdbe97c91239d9e15e91c7aef5e1a873d85d89ca6a83a10c&)
 
 # Register 
-![image](https://cdn.discordapp.com/attachments/1198929766921805865/1198929950825263124/image.png?ex=65c0b187&is=65ae3c87&hm=fdd77015f0a65657110ecbba4b43d6c364eaf2a6093574aed9a54cda74cd0225&)
-![image](https://cdn.discordapp.com/attachments/1198929766921805865/1198929789415850065/image.png?ex=65c0b160&is=65ae3c60&hm=2d1387ccba1c58620928b74312eb86836f75642ea73b24301bf8291109802be5&)
+![image](https://media.discordapp.net/attachments/1198929766921805865/1198929950825263124/image.png?ex=667e8987&is=667d3807&hm=2c6c4c3f78e181fe1ab01795e1de7d79b4680feb26bc6da7894b646543d7ad5c&=&format=webp&quality=lossless&width=576&height=205)
+
+![image](https://media.discordapp.net/attachments/1198929766921805865/1198929789415850065/image.png?ex=667e8960&is=667d37e0&hm=bb5c5042c836254062efe0840f1b1a9fe9f998d349f28cd3e494d6a694c8f8a1&=&format=webp&quality=lossless&width=521&height=49)
+
 ![image](https://cdn.discordapp.com/attachments/1198929766921805865/1198929870454001664/image.png?ex=65c0b174&is=65ae3c74&hm=6af396273f903fadb0b4c6000458647cb2d006e49b3330990ebd7dad617ccf81&)
 ![image](https://cdn.discordapp.com/attachments/1198929766921805865/1198947689887449218/image.png?ex=65c0c20c&is=65ae4d0c&hm=27e9fcf91ca9feaae296869f8be2ae7b7cb2ab0a456dc38f0e6fad569a018006&)
 ![image](https://cdn.discordapp.com/attachments/1186438528616366160/1198923406075236372/image.png?ex=65c0ab6e&is=65ae366e&hm=f698c9c05d9a2536d0ea65added22f0b426dd4b0a48ab97a768f05083e275f92&)
